@@ -1,3 +1,7 @@
-#Kodluyoruz Java Backend Patikası Not Hesaplama Ödevi
+# Kodluyoruz Java Backend Patikası Not Hesaplama Ödevi
+Hesaplanan Not 60 dan yüksekse çıktı
+![](./img/ust.png)
 
-![Hesaplanan Ortalama 60 dan yüksekse](./img/ust.png)
+---
+Hesaplanan Not 60 dan düşükse çıktı 
+![](./img/alt.png)
