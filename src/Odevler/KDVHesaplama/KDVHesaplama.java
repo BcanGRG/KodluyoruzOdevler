@@ -1,4 +1,4 @@
-package Odevler;
+package Odevler.KDVHesaplama;
 
 import java.util.Scanner;
 
