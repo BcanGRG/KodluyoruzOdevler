@@ -2,3 +2,4 @@
 ### İçindekiler 
 * [Not Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/NotHesaplama)
 * [KDV Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/KDVHesaplama)
+* [Üçgende Alan Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/UcgendeAlanHesaplama)
