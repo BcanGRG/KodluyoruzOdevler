@@ -2,7 +2,7 @@ package Odevler.DaireDilimiAlanHesaplama;
 
 import java.util.Scanner;
 
-public class DairedeAlanHesaplama {
+public class DaireDilimiAlanHesaplama {
     public static void main(String[] args) {
         double yaricap , merkezAci , pi = 3.14 , alan;
         Scanner input = new Scanner(System.in);
