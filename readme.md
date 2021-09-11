@@ -12,3 +12,4 @@
 * [Sınıf Geçme](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/SinifGecme)
 * [Hava Sıcaklığına Göre Etkinlik](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/HavaSicakligiEtkinlik)
 * [Küçükten Büyüğe Sıralama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/KucuktenBuyuge)
+* [Burç Bulma Programı](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/BurcBulmaProgrami)
