@@ -2,9 +2,12 @@ package Odevler.ManavKasaProgrami;
 
 import java.util.Scanner;
 
+
 public class ManavKasaProgrami {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
+        
         double armut,elma,domates,muz,patlican , tutar;
         System.out.print("Armut kaç kilogram ? ");
         armut = input.nextDouble() ;
