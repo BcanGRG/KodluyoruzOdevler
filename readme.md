@@ -16,3 +16,4 @@
 * [Uçak Bilet Fiyatı Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/UcakBiletiHesaplama)
 * [Çin Zodyağı Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/CinZodyagiHesaplama)
 * [Artık Yıl Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/ArtikYilHesaplama)
+* [Girilen Sayıya Kadar Çift](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/GirilenSayiyaKadarCift)
