@@ -14,4 +14,4 @@
 * [Küçükten Büyüğe Sıralama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/KucuktenBuyuge)
 * [Burç Bulma Programı](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/BurcBulmaProgrami)
 * [Uçak Bilet Fiyatı Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/UcakBiletiHesaplama)
-* [Çin Zodyağı Hesplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/CinZodyagiHesaplama)
+* [Çin Zodyağı Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/CinZodyagiHesaplama)
