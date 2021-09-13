@@ -21,3 +21,4 @@
 * [Kuvvet Bulma](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/KuvvetBulma)
 * [Kombinasyon Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/KombinasyonHesaplama)
 * [Üs Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/UsHesaplama)
+* [Basamak Değerleri Toplamı](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/BasamakDegerleriToplami)
