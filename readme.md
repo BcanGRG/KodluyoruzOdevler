@@ -17,3 +17,4 @@
 * [Çin Zodyağı Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/CinZodyagiHesaplama)
 * [Artık Yıl Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/ArtikYilHesaplama)
 * [Girilen Sayıya Kadar Çift](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/GirilenSayiyaKadarCift)
+* [Tek Sayıların Toplamı](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/TekSayilarinToplami)
