@@ -23,3 +23,4 @@
 * [Üs Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/UsHesaplama)
 * [Basamak Değerleri Toplamı](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/BasamakDegerleriToplami)
 * [Harmonik Seri Bulma](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/HarmonikSeriBulma)
+* [ATM Projesi](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/AtmProjesi)
