@@ -18,3 +18,6 @@
 * [Artık Yıl Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/ArtikYilHesaplama)
 * [Girilen Sayıya Kadar Çift](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/GirilenSayiyaKadarCift)
 * [Tek Sayıların Toplamı](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/TekSayilarinToplami)
+* [Kuvvet Bulma](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/KuvvetBulma)
+* [Kombinasyon Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/KombinasyonHesaplama)
+* [Üs Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/UsHesaplama)
