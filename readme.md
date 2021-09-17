@@ -25,3 +25,4 @@
 * [Harmonik Seri Bulma](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/HarmonikSeriBulma)
 * [ATM Projesi](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/AtmProjesi)
 * [Ebob-Ekok Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/Ebob_Ekok)
+* [Max-Min Hesaplama](https://github.com/BcanGRG/KodluyoruzOdevler/tree/master/src/Odevler/Max_Min_Hesaplama)
